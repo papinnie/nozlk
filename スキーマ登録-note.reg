@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\note]
+@="URL:Notepad Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\note\DefaultIcon]
+
+[HKEY_CLASSES_ROOT\note\shell]
+
+[HKEY_CLASSES_ROOT\note\shell\open]
+
+[HKEY_CLASSES_ROOT\note\shell\open\command]
+@="\"C:\\Windows\\notepad.exe\" \"%1\""

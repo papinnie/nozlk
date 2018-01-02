@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\nozlk]
+@="URL:Nozlk Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\nozlk\DefaultIcon]
+
+[HKEY_CLASSES_ROOT\nozlk\shell]
+
+[HKEY_CLASSES_ROOT\nozlk\shell\open]
+
+[HKEY_CLASSES_ROOT\nozlk\shell\open\command]
+@="\"D:\\work\\nozlk_test\\nozlk.exe\" \"%1\""
+

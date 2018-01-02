@@ -1,0 +1,7 @@
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlkopen\bin\Release\nozlk.exe.config
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlkopen\bin\Release\nozlk.exe
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\release\nozlk.exe.config
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\release\nozlk.exe
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlkopen\obj\Release\nozlkopen.csproj.CoreCompileInputs.cache
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlkopen\obj\Release\nozlk.exe
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlkopen\obj\Release\nozlkopen.csprojResolveAssemblyReference.cache

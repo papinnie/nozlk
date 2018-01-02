@@ -1,0 +1,10 @@
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\bin\Debug\nozlk.exe.config
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\bin\Debug\nozlk.exe
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\bin\Debug\nozlk.pdb
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\obj\Debug\nozlk.csprojResolveAssemblyReference.cache
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\obj\Debug\nozlk.mainForm.resources
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\obj\Debug\nozlk.Properties.Resources.resources
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\obj\Debug\nozlk.csproj.GenerateResource.Cache
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\obj\Debug\nozlk.csproj.CoreCompileInputs.cache
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\obj\Debug\nozlk.exe
+O:\nas-FilesVol\Develop\nozlk_VS2017C#\nozlk\nozlk\obj\Debug\nozlk.pdb
