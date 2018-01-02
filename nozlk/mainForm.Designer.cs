@@ -50,6 +50,7 @@
             this.textBoxOperand.Name = "textBoxOperand";
             this.textBoxOperand.Size = new System.Drawing.Size(525, 19);
             this.textBoxOperand.TabIndex = 1;
+            this.textBoxOperand.KeyDown += new System.Windows.Forms.KeyEventHandler(this.mainForm_KeyDown);
             // 
             // linkLabel1
             // 
@@ -68,6 +69,7 @@
             this.textBoxComment.Name = "textBoxComment";
             this.textBoxComment.Size = new System.Drawing.Size(189, 19);
             this.textBoxComment.TabIndex = 0;
+            this.textBoxComment.KeyDown += new System.Windows.Forms.KeyEventHandler(this.mainForm_KeyDown);
             // 
             // mainForm
             // 
@@ -83,6 +85,7 @@
             this.Text = "nozlk";
             this.DragDrop += new System.Windows.Forms.DragEventHandler(this.fileDragDrop);
             this.DragEnter += new System.Windows.Forms.DragEventHandler(this.fileDragEnter);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.mainForm_KeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();
 

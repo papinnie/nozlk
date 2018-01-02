@@ -66,14 +66,7 @@ namespace nozlkopen
                         case "vcs2017":
                         case "folder":
                         case "explorer":
-                            /*
-                            if ((Control.ModifierKeys & Keys.Shift) == Keys.Shift)
-                            {
-                                //Shift押しだとファイルの場所を開く（フォルダ開く）
-                                System.Diagnostics.Process.Start(Path.GetDirectoryName(operand));
-                            }
-                            else
-                            */
+
                             if ((Control.ModifierKeys & Keys.Control) == Keys.Control)
                             {
                                 //Ctrl押しながら起動では表示のみ
